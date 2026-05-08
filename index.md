@@ -10,8 +10,8 @@
 აქ შეგიძლიათ იხილოთ ბოლო დროს ატვირთული მასალები:
 
 *   **ლექციების კონსპექტი (დიფერენციალური გეომეტრია):**
-    *   [ჩამოტვირთეთ PDF ვერსია](./25-კონსპექტი-ოქტ-10.pdf)
-    *   [იხილეთ LaTeX წყარო (.tex)](./25-კონსპექტი-ოქტ-10.tex)
+    *   [ჩამოტვირთეთ PDF ვერსია](./25-კონსპექტი-ოქტ-10.pdf)[cite: 1]
+    *   [იხილეთ LaTeX წყარო (.tex)](./25-კონსპექტი-ოქტ-10.tex)[cite: 1]
 
 ---
 
@@ -25,11 +25,8 @@ Welcome to the **Georgian Mathematical Pages**. This platform serves as a centra
 *   **Topological Data Analysis (TDA)**
 
 ---
-*ბოლო განახლება: {{ "now" | date: "%Y-%m-%d" }}*
----
 
-## Contact
-For inquiries regarding workshops, research collaborations, or educational projects, please contact the organizers.
+**კონტაქტი:** სამუშაო შეხვედრებისა თუ კვლევითი პროექტების შესახებ ინფორმაციისთვის დაუკავშირდით ორგანიზატორებს.
 
----
+© 2026 Geo-Math-Pages Initiative.
 © 2026 Geo-Math-Pages Initiative.
